@@ -20,6 +20,5 @@ class Problem10Test extends Specification {
         17      || 41
         2001    || 277050
         140759  || 873608362
-        2000000 || 873608362
     }
 }
