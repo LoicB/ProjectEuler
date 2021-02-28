@@ -14,7 +14,9 @@ https://img.shields.io/github/last-commit/LoicB/ProjectEuler.svg)
 | 7  | [723ms](./src/main/java/com/euler/problem/Problem7.java) |17  | [1ms](./src/main/java/com/euler/problem1/Problem17.java)   |
 | 8  | [1ms](./src/main/java/com/euler/problem/Problem8.java)   |18  | [1ms](./src/main/java/com/euler/problem1/Problem18.java)   |
 | 9  | [9ms](./src/main/java/com/euler/problem/Problem9.java)   |19  | [112ms](./src/main/java/com/euler/problem1/Problem19.java) |
-| 10 | [36ms](./src/main/java/com/euler/problem1/Problem10.java)| 20 | [5ms](./src/main/java/com/euler/problem2/Problem20.java)   |
+| 10 | [36ms](./src/main/java/com/euler/problem1/Problem10.java)|20  | [5ms](./src/main/java/com/euler/problem2/Problem20.java)   |
+
+| ID | Result                                                   | ID | Result                                           |
 |----|----------------------------------------------------------|----|--------------------------------------------------|
-| 20 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |  
+| 20 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |21  | [20ms](./src/main/java/com/euler/problem2/Problem21.java)   |  
  
