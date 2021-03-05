@@ -7,10 +7,10 @@ public class Problem23 {
     public static void main(String[] args) {
         Problem23 problem23 = new Problem23();
         Long time1 = System.currentTimeMillis();
-        int sundays = problem23.sumOfNonAbundantNumbers(28123);
+        int sumOfNonAbundant = problem23.sumOfNonAbundantNumbers(28123);
         Long time2 = System.currentTimeMillis();
         System.out.println("  " + (time2 - time1) + "ms");
-        System.out.println("The solution is " + sundays);
+        System.out.println("The solution is " + sumOfNonAbundant);
     }
 
     protected int sumOfNonAbundantNumbers(int limit) {

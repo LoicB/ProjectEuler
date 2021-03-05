@@ -6,10 +6,10 @@ public class Problem20 {
     public static void main(String[] args) {
         Problem20 problem20 = new Problem20();
         Long time1 = System.currentTimeMillis();
-        int sundays = problem20.sumFactorialDigits(100);
+        int sumDigits = problem20.sumFactorialDigits(100);
         Long time2 = System.currentTimeMillis();
         System.out.println("  " + (time2 - time1) + "ms");
-        System.out.println("The solution is " + sundays);
+        System.out.println("The solution is " + sumDigits);
     }
 
     protected int sumFactorialDigits(int number) {

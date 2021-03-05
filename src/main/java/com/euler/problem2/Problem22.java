@@ -6,10 +6,10 @@ public class Problem22 {
     public static void main(String[] args) {
         Problem22 problem22 = new Problem22();
         Long time1 = System.currentTimeMillis();
-        int sundays = problem22.namesScores(new String[]{});
+        int namesScores = problem22.namesScores(new String[]{});
         Long time2 = System.currentTimeMillis();
         System.out.println("  " + (time2 - time1) + "ms");
-        System.out.println("The solution is " + sundays);
+        System.out.println("The solution is " + namesScores);
     }
 
     protected int namesScores(String[] names) {
