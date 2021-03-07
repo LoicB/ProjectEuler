@@ -19,5 +19,5 @@ https://img.shields.io/github/last-commit/LoicB/ProjectEuler.svg)
 | ID | Result                                                   | ID | Result                                           |
 |----|----------------------------------------------------------|----|--------------------------------------------------|
 | 20 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |21  | [20ms](./src/main/java/com/euler/problem2/Problem21.java)   |  
-| 25 | [11ms](./src/main/java/com/euler/problem2/Problem25.java) |
+| 25 | [11ms](./src/main/java/com/euler/problem2/Problem25.java) |26  | [44ms](./src/main/java/com/euler/problem2/Problem26.java)   |
 
