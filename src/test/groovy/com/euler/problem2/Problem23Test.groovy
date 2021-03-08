@@ -14,7 +14,6 @@ class Problem23Test extends Specification {
         expect:
         "With the number ${number} the sum of Non Abundant Numbers should be ${expectedResult}."
         println "With the number ${number} the sum of Non Abundant Numbers should be ${expectedResult}."
-        println expectedResult - problem23.sumOfNonAbundantNumbers(number)
         problem23.sumOfNonAbundantNumbers(number) == expectedResult
 
         where:
