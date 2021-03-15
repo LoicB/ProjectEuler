@@ -2,7 +2,7 @@
 
 [![<LoicB>](https://circleci.com/gh/LoicB/ProjectEuler.svg?style=svg)](https://circleci.com/gh/LoicB/ProjectEuler.svg) ![Last Commit on GitHub](
 https://img.shields.io/github/last-commit/LoicB/ProjectEuler.svg)
-  
+
 | ID | Result                                                   | ID | Result                                           |
 |----|----------------------------------------------------------|----|--------------------------------------------------|
 | 1  | [1ms](./src/main/java/com/euler/problem/Problem1.java)   |11  | [5ms](./src/main/java/com/euler/problem1/Problem11.java)   |
@@ -21,4 +21,6 @@ https://img.shields.io/github/last-commit/LoicB/ProjectEuler.svg)
 | 21 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |22  | [20ms](./src/main/java/com/euler/problem2/Problem22.java)   |  
 | 23 | [125ms](./src/main/java/com/euler/problem2/Problem23.java)|24  | [0ms](./src/main/java/com/euler/problem2/Problem24.java)   |
 | 25 | [11ms](./src/main/java/com/euler/problem2/Problem25.java) |26  | [44ms](./src/main/java/com/euler/problem2/Problem26.java)   |
+| 27 | [63ms](./src/main/java/com/euler/problem2/Problem27.java) |
 | 29 | [38ms](./src/main/java/com/euler/problem2/Problem29.java) |
+
