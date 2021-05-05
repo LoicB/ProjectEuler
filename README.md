@@ -18,9 +18,9 @@ https://img.shields.io/github/last-commit/LoicB/ProjectEuler.svg)
 
 | ID | Result                                                   | ID | Result                                           |
 |----|----------------------------------------------------------|----|--------------------------------------------------|
-| 21 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |22  | [20ms](./src/main/java/com/euler/problem2/Problem22.java)   |  
-| 23 | [125ms](./src/main/java/com/euler/problem2/Problem23.java)|24  | [0ms](./src/main/java/com/euler/problem2/Problem24.java)   |
-| 25 | [11ms](./src/main/java/com/euler/problem2/Problem25.java) |26  | [44ms](./src/main/java/com/euler/problem2/Problem26.java)   |
+| 21 | [4ms](./src/main/java/com/euler/problem2/Problem21.java) |  22 | [20ms](./src/main/java/com/euler/problem2/Problem22.java)   |  
+| 23 | [125ms](./src/main/java/com/euler/problem2/Problem23.java)| 24 | [0ms](./src/main/java/com/euler/problem2/Problem24.java)   |
+| 25 | [11ms](./src/main/java/com/euler/problem2/Problem25.java) | 26 | [44ms](./src/main/java/com/euler/problem2/Problem26.java)   |
 | 27 | [63ms](./src/main/java/com/euler/problem2/Problem27.java) |
-| 29 | [38ms](./src/main/java/com/euler/problem2/Problem29.java) |
+| 29 | [38ms](./src/main/java/com/euler/problem2/Problem29.java) | 30 | [949ms](./src/main/java/com/euler/problem3/Problem30.java) |
 
