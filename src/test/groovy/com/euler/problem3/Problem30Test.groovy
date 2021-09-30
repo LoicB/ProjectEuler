@@ -22,21 +22,6 @@ class Problem30Test extends Specification {
     }
 
     @Unroll
-    def 'Transform numbers into digits'() {
-        expect:
-        "With the number ${number} the list of digits should be ${expectedResult}."
-        println "With the number ${number} the list of digits should be ${expectedResult}."
-        problem30.numberToDigits(number) == expectedResult
-
-        where:
-        number || expectedResult
-        1634   || [1, 6, 3, 4]
-        8208   || [8, 2, 0, 8]
-        9474   || [9, 4, 7, 4]
-        54748  || [5, 4, 7, 4, 8]
-    }
-
-    @Unroll
     def 'Calculate the sum of digit power'() {
         expect:
         "With the number ${number} the sum of ${nthPowers} power of it digits should be ${expectedResult}."
